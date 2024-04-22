@@ -1,0 +1,7 @@
+C:\Van\Mat ma ung dung\Console_DES\Console_DES\bin\Debug\Console_DES.exe.config
+C:\Van\Mat ma ung dung\Console_DES\Console_DES\bin\Debug\Console_DES.exe
+C:\Van\Mat ma ung dung\Console_DES\Console_DES\bin\Debug\Console_DES.pdb
+C:\Van\Mat ma ung dung\Console_DES\Console_DES\obj\Debug\Console_DES.csproj.AssemblyReference.cache
+C:\Van\Mat ma ung dung\Console_DES\Console_DES\obj\Debug\Console_DES.csproj.CoreCompileInputs.cache
+C:\Van\Mat ma ung dung\Console_DES\Console_DES\obj\Debug\Console_DES.exe
+C:\Van\Mat ma ung dung\Console_DES\Console_DES\obj\Debug\Console_DES.pdb
